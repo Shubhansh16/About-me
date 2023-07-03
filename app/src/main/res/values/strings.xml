@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KotlinAbout Me</string>
+
+    <string name="bio">Hi! My name is Shubhansh Mishra.
+    \n\n I like coding,
+    \n\n You either die a hero or live long enough to witness yourself become the Villain.
+    \n\n I know I am not the best but I am better than everyone out there.
+    </string>
+</resources>
